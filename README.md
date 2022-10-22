@@ -1,24 +1,15 @@
 # projectgithub
 
-## Project setup
-```
-npm install
-```
+Ejercicio para consumo de API en github
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+El presente es un ejercicio para consumo de API en github. Se construyó en las siguientes herramientas:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Vue js
+Axios (Consumo de apis)
+Bootstrap vue (Estilos de bootstrap para Vue js).
+Para visualizarlo:
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+El proyecto se encuentra en la rama "master"
+Descargar el repositorio
+Ingresar a la carpeta y ejecutar npm install
+Ejecutar npm run serve
