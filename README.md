@@ -8,6 +8,7 @@ Se construyó en las siguientes herramientas:
 * Bootstrap vue (Estilos de bootstrap para Vue js).
 
 Para visualizarlo:
-1. Descargar el repositorio
+1. El proyecto se encuentra en la rama "master"
+2. Descargar el repositorio
 2. Ingresar a la carpeta y ejecutar npm install
 3. Ejecutar npm run serve
